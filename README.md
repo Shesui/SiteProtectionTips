@@ -1,2 +1,1 @@
-# -Rules-CLoudFlare
-My rules for Cloudflare. Telegram: @bengaladstat
+- My rules for Cloudflare. Telegram: @bengaladstat

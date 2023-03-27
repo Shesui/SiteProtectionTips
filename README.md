@@ -1,5 +1,5 @@
 - My rules for Cloudflare. Telegram: @bengaladstat
->1.Interactive Challenge 
+>1.Interactive Challenge (Shit rule unstable)
 
 >2.Interactive Challenge
 

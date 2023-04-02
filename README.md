@@ -25,6 +25,7 @@
 ## Scipts for ddos protetcion
 
 - BalooProxy <a href="https://github.com/41Baloo/balooProxy">click</a>	
-> Baloo proxy like CF but better then it. Highly recomend to use it
+> Baloo proxy like CF but better then it. Highly recomend to use it.
+For better attack blocking and site live use minimum 4core 8gb 1gb/s server
 - YukiAntiDDoS <a href="http://github.com/yuk1c/antiddos">click</a>	
 > Not good but developer working on update 

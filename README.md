@@ -11,7 +11,7 @@
 
 
 
-## Rules info
+## CF Rules
 1.[Challenge] Interactive Challenge (Fixed)
 
 2.[ASN №1] Interactive Challenge

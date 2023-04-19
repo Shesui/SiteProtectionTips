@@ -26,6 +26,11 @@
 
 - BalooProxy <a href="https://github.com/41Baloo/balooProxy">click</a>	
 > Baloo proxy like CF but better then it. Highly recomend to use it.
-For better attack blocking and site live use minimum 4core 8gb 1gb/s server
+For better attack blocking and site uptime use minimum 4core 8gb 1gb/s server
 - YukiAntiDDoS <a href="http://github.com/yuk1c/antiddos">click</a>	
-> Not good but developer working on update 
+> Not good but developer working on update.
+- vDDoS-Protection <a href="https://github.com/duy13/vDDoS-Protection">click</a>	
+> Good but no updates and new technologies.
+For better attack blocking and site uptime use minimum 4core 8gb 1gb/s server
+- Nginx-Lua-Anti-DDoS <a href="https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS">click</a>	
+> Good but no updates and new technologies.

@@ -34,3 +34,8 @@ For better attack blocking and site uptime use minimum 4core 8gb 1gb/s server
 For better attack blocking and site uptime use minimum 4core 8gb 1gb/s server
 - Nginx-Lua-Anti-DDoS <a href="https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS">click</a>	
 > Good but no updates and no new technologies.
+
+## Site Preformance/Security check
+- DDoSify (Free/Script) <a href="https://github.com/ddosify/ddosify">click</a>	
+> DDoSify simple script to do virtual load test your site and create any scenarios
+

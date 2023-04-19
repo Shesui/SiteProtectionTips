@@ -30,7 +30,7 @@ For better attack blocking and site uptime use minimum 4core 8gb 1gb/s server
 - YukiAntiDDoS <a href="http://github.com/yuk1c/antiddos">click</a>	
 > Not good but developer working on update.
 - vDDoS-Protection <a href="https://github.com/duy13/vDDoS-Protection">click</a>	
-> Good but no updates and new technologies.
+> Good but no updates and no new technologies.
 For better attack blocking and site uptime use minimum 4core 8gb 1gb/s server
 - Nginx-Lua-Anti-DDoS <a href="https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS">click</a>	
-> Good but no updates and new technologies.
+> Good but no updates and no new technologies.

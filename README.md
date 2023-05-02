@@ -1,13 +1,25 @@
 # My rules for Cloudflare and Tips how to protect your site. Telegram: @bengaladstat
 
-## Best Anti-Ddos providers
+## High tier Anti-Ddos providers
 
 - CloudFlare (Free/Paid) <a href="https://www.cloudflare.com/">click</a>	
-- DDoS-Guard (Trial/Paid) <a href="https://ddos-guard.net/ru">click</a>	
+- DDoS-Guard (Trial Request/Paid) <a href="https://ddos-guard.net/ru">click</a>	
 - VenrtyShield using with CF (Free/Paid) <a href="https://ventryshield.net">click</a>
 - CasT-Security (Paid) <a href="https://cast-security.ru/">click</a>
 - Aeza (Free/Paid) <a href="https://aeza.net/protection">click</a>
 - GreyWeb (Paid) <a href="https://my.greywebs.com/order/ddos">click</a>
+- Stormwall (Trial Request/Paid) <a href="https://stormwall.pro/">click</a>
+
+## Medium tier Anti-BDoS provider
+
+
+
+- Cotoax (Paid) <a href="https://www.cotoax.com/">click</a>	
+
+## Small tier Anti-BBoS provider
+- SKLTeam (Paid) <a href="https://skl.team/">click</a>	
+- Bytfend (Paid) <a href="https://bytefend.to/">click</a>	
+- SKLTeam (Paid) <a href="https://skl.team/">click</a>	
 
 
 
@@ -22,7 +34,7 @@
 
 5.[Standart Cheking for bads] Block
 
-## Scipts for ddos protetcion
+## Scipts for ddos protetcion 
 
 - BalooProxy <a href="https://github.com/41Baloo/balooProxy">click</a>	
 > Baloo proxy like CF but better then it. Highly recomend to use it.

@@ -1,4 +1,4 @@
-# My rules for Cloudflare and Tips how to protect your site. Telegram: @bengaladstat
+# My rules for Cloudflare and Tips how to protect your site/server. Telegram: @bengaladstat
 
 ## High tier Anti-Ddos providers
 

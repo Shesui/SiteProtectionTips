@@ -7,6 +7,7 @@
 - VenrtyShield using with CF (Free/Paid) <a href="https://ventryshield.net">click</a>
 - CasT-Security (Paid) <a href="https://cast-security.ru/">click</a>
 - Aeza (Free/Paid) <a href="https://aeza.net/protection">click</a>
+> Not recomended to use 03.02.2023 to many downtime servers
 - GreyWeb (Paid) <a href="https://my.greywebs.com/order/ddos">click</a>
 - Stormwall (Trial Request/Paid) <a href="https://stormwall.pro/">click</a>
 

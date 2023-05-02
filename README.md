@@ -1,6 +1,6 @@
 # My rules for Cloudflare and Tips how to protect your site/server. Telegram: @bengaladstat
 
-## High tier Anti-Ddos providers
+## High tier Anti-DDoS providers
 
 - CloudFlare (Free/Paid) <a href="https://www.cloudflare.com/">click</a>	
 - DDoS-Guard (Trial Request/Paid) <a href="https://ddos-guard.net/ru">click</a>	

@@ -49,3 +49,6 @@ For better attack blocking and site uptime use minimum 4core 8gb 1gb/s server
 - DDoSify (Free/Script) <a href="https://github.com/ddosify/ddosify">click</a>	
 > DDoSify simple script to do virtual load test your site and create any scenarios
 
+## Useful scripts
+- Cyber-Shield <a href="https://github.com/voidptr2x/Cyber-Shield">click</a>	
+>Monitoring and analyze packets income to server.

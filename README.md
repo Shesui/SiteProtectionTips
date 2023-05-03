@@ -40,7 +40,7 @@ For better attack blocking and site uptime use minimum 4core 8gb 1gb/s server
 - Nginx-Lua-Anti-DDoS <a href="https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS">click</a>	
 > Good but no updates and no new technologies.
 
-## Scipts for protetcion L4 
+## Scipts for protetcion L3/L4
 - YukiAntiDDoS <a href="http://github.com/yuk1c/antiddos">click</a>	
 > Not good but developer working on update.
 - China IPtables <a href="https://www.provgn.com/knowledgebase/4/Filtering-DDoS-Attacks-with-IPTables-.html">click</a>	

@@ -25,9 +25,9 @@
 
 3.[ASN №2] Interactive Challenge 
 
-4.[Standart Cheking for bads] Block 
+4.[Standart Cheking for bads №1] Block 
 
-5.[Standart Cheking for bads] Block
+5.[Standart Cheking for bads №2] Block
 
 ## Scipts for protetcion L7 
 

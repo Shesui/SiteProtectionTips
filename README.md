@@ -31,6 +31,8 @@
 
 ## Scipts for protetcion L7 
 
+- PowShield <a href="https://github.com/RuiSiang/PoW-Shield">click</a>	
+> Reverse Proxy, like baloo
 - BalooProxy <a href="https://github.com/41Baloo/balooProxy">click</a>	
 > Baloo proxy like CF but better then it. Highly recomend to use it.
 For better attack blocking and site uptime use minimum 4core 8gb 1gb/s server

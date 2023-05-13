@@ -15,7 +15,7 @@
 
 ## Low tier Anti-DDoS providers
 - SKLTeam (Paid) <a href="https://skl.team/">click</a>	
-> Have some problems with protection like 500errors
+> Have some problems with protection like (500 error)
 - Bytfend (Paid) <a href="https://bytefend.to/">click</a>	
 > Not recomended to use ovh resseler small network no own DC and poor protection methods
 - Cotoax (Paid) <a href="https://www.cotoax.com/">click</a>	

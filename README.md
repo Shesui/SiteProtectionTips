@@ -31,6 +31,8 @@
 
 5.[Standart Cheking for bads №2] Block
 
+6.[Stupid Geo Block] Block
+
 ## Scipts for protetcion L7 
 
 - PowShield <a href="https://github.com/RuiSiang/PoW-Shield">click</a>	

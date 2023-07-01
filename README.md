@@ -5,6 +5,9 @@
 - CloudFlare (Free/Paid) <a href="https://www.cloudflare.com/">click</a>	
 - DDoS-Guard (Trial Request/Paid) <a href="https://ddos-guard.net/ru">click</a>	
 - Stormwall (Trial Request/Paid) <a href="https://stormwall.pro/">click</a>
+- NexusPipe (Paid) <a href="https://nexuspipe.com/">click</a>
+> Protection Very good and cheap
+
 
 ## Medium tier Anti-DDoS providers
 - Aeza (Free/Paid) <a href="https://aeza.net/protection">click</a>
